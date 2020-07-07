@@ -1,0 +1,15 @@
+﻿{
+  "information":{
+    "name":"Islamic_Prayer_Times",
+    "author":"Mohamed Hafez",
+    "link":"",
+    "ver":"1.0.0",
+    "backgroundKind":"web",
+    "backgroundSrc":"index.html",
+    "kind":"web"
+  },
+  "layout":[],
+  "measures":[],
+  "actions":null,
+  "settings":[]
+}
